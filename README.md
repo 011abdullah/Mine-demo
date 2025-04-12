@@ -1,2 +1,4 @@
 # Mine-demo
-This iis my first repository.
+This is my first repository.
+
+Hello to every-one
